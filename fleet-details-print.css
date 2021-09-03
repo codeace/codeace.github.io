@@ -161,54 +161,6 @@ tr.total {
   background-color: Silver;
   font-weight: bold;
 }
-
-body {
-  background-color: #ffffff;
-}
-
-body,
-td {
-  font-family: 'Montserrat', sans-serif, Arial;
-  font-size: 10pt;
-}
-
-h1,
-h2,
-h3,
-hr {
-  color: #444;
-}
-
-.overall {
-  color: white;
-  font-size: 18pt;
-  font-weight: bold;
-  text-transform: uppercase;
-}
-
-.overall80 {
-  color: white;
-  font-size: 18pt;
-  font-weight: bold;
-  text-transform: uppercase;
-}
-
-a:link {
-  color: darkred;
-}
-
-a:visited {
-  color: darkred;
-}
-
-a:active {
-  color: red;
-}
-
-a:hover {
-  color: red;
-}
-
 td .red {
   color: red;
 }
