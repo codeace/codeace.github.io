@@ -8,6 +8,9 @@
   display: inline-block;
 }
 @media print {
+  .action-buttons {
+    display: none;
+  }
   br.newpage {
     page-break-before: always;
   }
