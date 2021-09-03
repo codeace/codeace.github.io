@@ -22,10 +22,10 @@ table.table-styled {
     border-collapse: collapse;
     margin-bottom: 17px;
   }
-  table.table-styled thead tr td {
+  table.table-styled tr td {
     background-color: #c0c0c0;
   }
-  table.table-styled tbody tr td {
+  table.table-styled tr td {
     border-left: 1px solid #949497;
     padding: 3px;
   }
