@@ -29,6 +29,11 @@ table.table-styled {
     border-left: 1px solid #949497;
     padding: 3px;
   }
+  .table-styled > tr > th,
+.table-styled > tr > td {
+  border: 1px solid #949497 !important;
+  padding: 5px !important;
+}
   .pagebreak {
     clear: both;
     page-break-after: always;
